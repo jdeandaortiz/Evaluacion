@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="jesusdeanda.giti7083s.factory.FactoriaConcreta2" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/FactoriaConcreta2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="218" x="194" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="jesusdeanda.giti7083s.factory.FactoriaConcreta1" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/FactoriaConcreta1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="212" x="452" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="jesusdeanda.giti7083s.factory.ProductoB" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoB.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="136" x="880" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="jesusdeanda.giti7083s.factory.ProductoA" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="136" x="1232" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="jesusdeanda.giti7083s.factory.AbstractFactory" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/AbstractFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="136" x="452" y="294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="jesusdeanda.giti7083s.factory.ProductoA1" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoA1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="1232" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="jesusdeanda.giti7083s.factory.ProductoB2" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoB2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="704" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="jesusdeanda.giti7083s.factory.ProductoB1" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoB1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="880" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="jesusdeanda.giti7083s.factory.Cliente" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/Cliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="1056" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="jesusdeanda.giti7083s.factory.ProductoA2" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/factory/ProductoA2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="1408" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="11">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="12">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="13">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="17">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

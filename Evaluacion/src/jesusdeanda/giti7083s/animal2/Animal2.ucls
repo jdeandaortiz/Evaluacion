@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="jesusdeanda.giti7083s.animal2.Elefante" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/animal2/Elefante.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="137" x="257" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="jesusdeanda.giti7083s.animal2.TestAnimales" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/animal2/TestAnimales.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="137" x="168" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="jesusdeanda.giti7083s.animal2.Leon" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/animal2/Leon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="137" x="434" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="jesusdeanda.giti7083s.animal2.Animal" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/animal2/Animal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="137" x="345" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="jesusdeanda.giti7083s.animal2.Pato" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/animal2/Pato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="137" x="522" y="154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="6">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

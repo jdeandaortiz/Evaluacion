@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="jesusdeanda.giti7083s.pelota.Rebotable" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/pelota/Rebotable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="146" x="312" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="jesusdeanda.giti7083s.pelota.Pelota" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/pelota/Pelota.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="132" x="126" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="jesusdeanda.giti7083s.pelota.Llanta" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/pelota/Llanta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="146" x="298" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="jesusdeanda.giti7083s.pelota.PelotaFutbol" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/pelota/PelotaFutbol.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="146" x="126" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="jesusdeanda.giti7083s.pelota.TestPelota" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/pelota/TestPelota.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="130" x="484" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="6">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

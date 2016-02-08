@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="jesusdeanda.giti7083s.interfacefigura.Figura" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/interfacefigura/Figura.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="166" x="383" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="jesusdeanda.giti7083s.interfacefigura.Triangulo" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/interfacefigura/Triangulo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="166" x="177" y="183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="jesusdeanda.giti7083s.interfacefigura.Circulo" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/interfacefigura/Circulo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="166" x="383" y="183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="jesusdeanda.giti7083s.interfacefigura.Cuadrado" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/interfacefigura/Cuadrado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="166" x="589" y="183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="jesusdeanda.giti7083s.interfacefigura.TestInterfaceFigura" project="Evaluacion" 
+    file="/Evaluacion/src/jesusdeanda/giti7083s/interfacefigura/TestInterfaceFigura.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="166" x="795" y="183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="6">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="8">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
